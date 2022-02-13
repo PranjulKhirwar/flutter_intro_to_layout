@@ -1,6 +1,6 @@
 # intro_to_layout
 
-A new Flutter project.
+A Flutter project to learn layout designing.
 
 ## Getting Started
 
